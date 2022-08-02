@@ -21,12 +21,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918590451659']
-global.premium = ['918590451659']
+global.owner = ['212638499105']
+global.premium = ['212638499105']
 global.ownernomer = '918590451659'
-global.ownername = '🦄Dream Guy snoqx'
-global.botname = 'Minx Bot MD'
-global.footer = 'snoqx Bot Inc.'
+global.ownername = 'ayoub'
+global.botname = 'Ayoub bot'
+global.footer = 'ayoub.'
 global.ig = 'https://github.com/snoqx'
 global.region = 'India, kerala ,mlp'
 global.sc = 'https://github.com/snoqx/Minx-MD'
